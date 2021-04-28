@@ -89,6 +89,10 @@ a:active {
     color: var(--color-primary);
 }
 
+.section {
+    padding: var(--section-padding);
+}
+
 .section-header {
     text-align: var(--section-header-align);
 
@@ -101,10 +105,6 @@ a:active {
 
 .section-footer {
     padding: var(--section-footer-padding);
-}
-
-.section {
-    padding: var(--section-padding);
 }
 
 .section-title {
