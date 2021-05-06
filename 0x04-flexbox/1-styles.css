@@ -63,7 +63,6 @@
   --transition-duration: .3s;
 }
 
-
 *, *:before, *:after {
   box-sizing: border-box;
 }
@@ -159,7 +158,6 @@ ul.row {
 .col-1-2 {
   width: 50%;
 }
-
 
 .navbar-menu {
   float: right;
@@ -290,6 +288,7 @@ ul.row {
   padding: var(--section-footer-padding);
   text-align: var(--section-footer-align);
 }
+
 
 [data-section-theme='dark'] {
   --button-color: var(--color-white);
@@ -429,4 +428,3 @@ ul.row {
   font-size: 10rem;
   z-index: -1;
 }
-  
